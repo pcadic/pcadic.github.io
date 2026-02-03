@@ -1,0 +1,154 @@
+:root {
+  --bg: #0f172a;
+  --card: #1e293b;
+  --text: #e5e7eb;
+  --accent: #60a5fa;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+.hero {
+  text-align: center;
+  padding: 4rem 1rem;
+}
+
+.hero h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+.links a {
+  margin: 0 10px;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+section {
+  max-width: 1100px;
+  margin: auto;
+  padding: 2rem 1rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 24px;
+}
+
+.card {
+  background: var(--card);
+  border-radius: 10px;
+  overflow: hidden;
+  padding-bottom: 1rem;
+}
+
+.card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.card h3 {
+  margin: 1rem;
+}
+
+.card p {
+  margin: 0 1rem 0.5rem;
+  font-size: 0.95rem;
+}
+
+.card .tech {
+  font-size: 0.9rem;
+  opacity: 0.85;
+  color: #ef4444; /* rouge moderne */
+}
+
+.card a {
+  margin: 0 1rem;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  padding: 2rem;
+  opacity: 0.6;
+}
+
+.education {
+  max-width: 1100px;
+  margin: auto;
+  padding: 3rem 1rem;
+}
+
+
+.edu-content h3 {
+  margin: 0;
+  font-size: 1.05rem;
+}
+
+.school {
+  font-size: 0.9rem;
+  opacity: 0.85;
+  color: #ef4444; /* rouge moderne */
+}
+
+.desc {
+  font-size: 0.95rem;
+  margin-top: 0.4rem;
+  line-height: 1.4;
+}
+
+.education {
+  max-width: 1100px;
+  margin: auto;
+  padding: 3rem 1rem;
+}
+
+.edu-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+}
+
+.edu-card {
+  background: #1e293b;
+  border-radius: 10px;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+
+  gap: 0.75rem;
+}
+
+.edu-logo {
+  width: 120px;
+  height: 120px;
+  object-fit: contain;
+  margin-bottom: 0.5rem;
+}
+
+.edu-content h3 {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.school {
+  font-size: 0.9rem;
+  opacity: 0.85;
+}
+
+.desc {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  max-width: 420px;
+  margin: 0 auto;
+}

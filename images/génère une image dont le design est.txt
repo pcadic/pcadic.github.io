@@ -1,0 +1,52 @@
+génère une image dont le design est le style dark, qui représente une champs de culture : blé, orge, sorgho, etc...de la taille 1200 × 750 px   (ratio 16:10), sans personnages, sans bâtiments, sans logo, sans texte.
+
+génère une image dont le design est le style retro vintage, qui représente une champs de culture : blé, orge, sorgho, etc...de la taille 1200 × 750 px   (ratio 16:10), sans personnages, sans bâtiments, sans logo, sans texte.
+
+génère une image dont le design est le style retro vintage, comme si c'était à l'ordinateur, qui représente un code SQL dont le texte est " SELECT client_id, COUNT(*) 
+FROM orders 
+GROUP BY client_id;" L'image doit être de la taille 1200 × 750 px  (ratio 16:10).ais comme si le texte était écrit sur un ordinateur moderne , genre un laptop
+
+
+génère une image dont le design est le style retro vintage, qui représente un graphe des cours du marche boursier, avec la hausse en vert et la baisse des prix en rouge  de la taille 1200 × 750 px  (ratio 16:10). est ce que tu peux quand meme avoir des ordres de grandeur correct dans les axes. aussi n'affiche 
+
+génère une image dont le design est le style retro vintage, qui représente l'équipe de foot de Vancouver ; Vancouver Whitecaps FC,  de la taille 1200 × 750 px  (ratio 16:10). Essaye de récupérer leur logo en ligne comme source
+
+génère une image dont le design est le style retro vintage, qui représente le site d'annonces le logement en ligne Craiglist pour la recherche de chambre à louer,  de la taille 1200 × 750 px  (ratio 16:10). Fais un site web avec des cases et dans chaque cases une image d'une pièce de logement comme la chambre ou un studio avec un prix et du texte de description. Utilise le logo et le style du site Craiglist
+
+génère une image dont le design est le style retro vintage, qui représente une courbe sigmoïde assez symétrique entre 0 et 1,  de la taille 1200 × 750 px  (ratio 16:10). 
+
+génère une image dont le design est le style retro vintage, qui représente un site de recherche de logement temporaire dans Airbnb,  de la taille 1200 × 750 px  (ratio 16:10). Fais en sorte qu'il y ait une marge avec de l'espace dans l'image. je mets en image pour inspiration du logo
+
+génère une image dont le design est le style dark, qui représente un site de recherche de logement comme Craiglist,  de la taille 1200 × 750 px  (ratio 16:10). Fais en sorte qu'il y ait une marge avec de l'espace dans l'image. 
+
+génère une image dont le design est le style retro vintage, qui représente l'hotel de ville de Vancouver au Canada,  de la taille 1200 × 750 px  (ratio 16:10). 
+
+génère une image dont le design est le style retro vintage, qui représente les énergies renouvelables : énergie solaire, hydro, vent, végétal....,  de la taille 1200 × 750 px  (ratio 16:10).
+
+génère une image dont le design est le style retro vintage, qui représente le concept de l'effet de serre,  de la taille 1200 × 750 px  (ratio 16:10). Pour cela représente un paysage industriel avec des cheminées et de la fumée. Le soleil est caché et tente de percer mais n'y arrive pas.
+
+génère une image dont le design est le style retro vintage, qui représente un coffee,  de la taille 1200 × 750 px  (ratio 16:10). Pour cela représente espace cosy où on sert des cafés et de patisseries. Ne représente personne, juste une pièce faiblement éclairée. Dehors il pleut et il fait froid et sombre.
+
+génère une image dont le design est le style retro vintage, qui représente des bornes de vélo en partage dans une ville citadine,  de la taille 1200 × 750 px  (ratio 16:10).
+
+génère une image dont le design est le style retro vintage, qui représente employés qui quittent leur emploi et qui partent frustrés, et d'autres qui sont arrivés, heureux, qui les remplacent, qui lui aussi amène ses affaires sur le bureau, de la taille 1200 × 750 px  (ratio 16:10).
+
+génère une image dont le design est le style dark, qui représente un employé qui donne sa lettre de démission à son manager et qui quitte son bureau. , de la taille 1200 × 750 px  (ratio 16:10). 
+
+génère une image dont le design est le style dark, qui représente des passagers dans un aéroport canadien qui ont attérit et vont récupérer leurs bagages , de la taille 1200 × 750 px  (ratio 16:10). 
+
+génère une image dont le design est le style dark, qui représente une analyse de avis des consommateurs dans des magasins Lululemon de Vancouver , de la taille 1200 × 750 px  (ratio 16:10). 
+
+génère une image dont le design est le style retro vintage, qui représente les énergies renouvelables. On voit un petit carré de paysage miniature avec une petit maison avec des écrans photovoltaïques, une éolienne, un barrage sur une rivière, un soleil en fond des arbres agités par le vent,  de la taille 1200 × 750 px  (ratio 16:10).
+
+génère une image dont le design est le style retro vintage, qui représente les jeux olympiques,  de la taille 1200 × 750 px  (ratio 16:10).
+
+génère une image dont le design est le style dark, qui représente Vancouver City Hall au Canada,  de la taille 1200 × 750 px  (ratio 16:10). 
+
+génère une image dont le design est le style dark, qui représente les anneaux des Jeux Olympiques avec leur différentes couleurs reconnues dans le monde entier, avec un stade au loin qui va accueillir les épreuves sportives, de la taille 1200 × 750 px  (ratio 16:10). 
+
+génère une image dont le design est le style dark, qui représente un site de recherche de logement temporaire comme Airbnb,  de la taille 1200 × 750 px  (ratio 16:10). 
+
+génère une image dont le design est le style dark, qui représente un graphe des cours du marche boursier, un graphe en chandelles, avec la hausse en vert et la baisse des prix en rouge  de la taille 1200 × 750 px  (ratio 16:10).
+
+génère une image dont le design est le style dark, qui représente un site de recherche de logement comme Craiglist,  de la taille 1200 × 750 px  (ratio 16:10). Fais en sorte qu'il y ait une marge avec de l'espace dans l'image. 
