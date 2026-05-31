@@ -50,3 +50,5 @@ génère une image dont le design est le style dark, qui représente un site de 
 génère une image dont le design est le style dark, qui représente un graphe des cours du marche boursier, un graphe en chandelles, avec la hausse en vert et la baisse des prix en rouge  de la taille 1200 × 750 px  (ratio 16:10).
 
 génère une image dont le design est le style dark, qui représente un site de recherche de logement comme Craiglist,  de la taille 1200 × 750 px  (ratio 16:10). Fais en sorte qu'il y ait une marge avec de l'espace dans l'image. 
+
+génère une image dont le design est le style dark, qui représente une scene de bus arrivant à un station de transport de Translink à Vancouver, Canada,  de la taille 1200 × 750 px  (ratio 16:10).
